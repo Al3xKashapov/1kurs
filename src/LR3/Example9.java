@@ -14,8 +14,6 @@ public class Example9 {
         Random random = new Random();
         System.out.print("Массив: " );
 
-
-
         for (int i = 0; i < nums.length; i++){
             nums[i] = random.nextInt(100);
             System.out.print(nums[i] + " ");
@@ -27,7 +25,7 @@ public class Example9 {
         for (int i = 0; i < nums.length; i++){
             System.out.print(nums[i] + " ");
         }
-        System.out.print("\n " );
+        System.out.print("\n ");
 
         for (int i = 0; i < nums.length; i++){
             if (nums[i] == nums[0]) {

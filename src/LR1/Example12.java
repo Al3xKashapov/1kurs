@@ -14,7 +14,7 @@ public class Example12 {
 
         int born = 2023 - age;
 
-        System.out.println("You have born in " + born );
+        System.out.println("You was born in " + born );
         in.close();
     }
 }

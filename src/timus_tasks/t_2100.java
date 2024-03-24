@@ -50,8 +50,5 @@ public class t_2100 {
             exception.printStackTrace();
         }
 
-
-
-
     }
 }

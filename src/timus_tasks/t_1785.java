@@ -13,14 +13,11 @@ public class t_1785 {
                 System.out.println("few");
             }
 
-
-
         }
         if ( n >= 5) {
             if (n <=9){
                 System.out.println("several");
             }
-
 
         }
         if ( n >= 10) {

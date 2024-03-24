@@ -17,10 +17,8 @@ public class Example15 {
 
         int sum = a + b;
 
-        int raz;
-        if (a <= b) {
-            raz = b - a;
-        } else raz = a - b;
+        int raz = a - b;
+
         System.out.println("Разность: " + raz);
         System.out.println("Сумма: " + sum);
 

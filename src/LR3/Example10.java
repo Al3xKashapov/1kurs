@@ -26,14 +26,8 @@ public class Example10 {
         for (int i = nums.length - 1; i >= 0; i--){
             numsSort[i1]=nums[i];
             i1++;
-            //System.out.print(nums[i] + " ");
         }
-        //int [] numsSort = new int[id.nextInt()];
         System.out.print(Arrays.toString(numsSort));
-        //for (int i = 0; i < numsSort.length; i++);{
-
-        //}
-
     }
 }
 
